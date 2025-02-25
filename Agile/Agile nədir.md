@@ -11,7 +11,7 @@ Bu yanaşma ilə ev tikmək, əvvəlcə hər şeyi detallı şəkildə planlaşd
 
 Əgər bu prosesin ortasında kimsə desə ki, “Mənim üçün bir əlavə otaq tikin” və ya “Mətbəxin yerini dəyişək”, bu çox çətin və bahalı ola bilər, çünki bütün sistem əvvəlcədən planlaşdırılıb.
 
-![traditional](img/Pasted%20image%2020250220141858.png)
+![traditional](/img/Pasted%20image%2020250220141858.png)
 
 
 **Agile yanaşması**
@@ -23,7 +23,7 @@ Agile yanaşması ilə ev tikmək, əvvəlcə əsas strukturu qurmaq və sonra e
 
 Bu yanaşmada müştəri daim prosesdə iştirak edir və hər iterasiyada istifadə oluna bilən bir nəticə əldə edilir. Nəticədə, ehtiyaclar dəyişdikcə layihəyə uyğunlaşmaq mümkün olur.
 
-![agile lifecycle](img/Pasted%20image%2020250220125716.png)
+![agile lifecycle](/img/Pasted%20image%2020250220125716.png)
 
 
 Çevik həyat dövrünün hər bir mərhələsi müəyyən bir məqsədə xidmət edir:
@@ -32,7 +32,7 @@ Bu yanaşmada müştəri daim prosesdə iştirak edir və hər iterasiyada istif
 **İcra etmək**: Planlaşdırılmış iş elementlərini tamamlayır və dəyərə çatdırır
 **Qiymətləndirmək**: İnkişaf nəzərdən keçirilir, rəy toplanılır və təkmilləşdirmələr müəyyənləşdirilir.
 
-## [Agile əsas dəyərləri və prinsipləri](Agile%20əsas%20dəyərləri20%və20%prinsipləri.md)
+## [Agile əsas dəyərləri və prinsipləri](/Agile/Agile%20əsas%20dəyərləri%20və%20prinsipləri.md)
 
 
 ## Common Agile Methodologies
