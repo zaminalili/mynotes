@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "3f056e1a741657c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3e656d0aaef3a26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c857eaf5f7ad22b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agile/Agile nədir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agile nədir"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c57fd2b03509162",
+    "type": "split",
+    "children": [
+      {
+        "id": "d882972516c03fea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b50481882dc5a634",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c008d6692299d680",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "04ab9c47164ee355",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae3c07fd993d6953",
+    "type": "split",
+    "children": [
+      {
+        "id": "193cf3f036b64ca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00a897c2611f3247",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Agile/Agile nədir.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Agile nədir"
+            }
+          },
+          {
+            "id": "467240dccfc53357",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Agile/Agile nədir.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Agile nədir"
+            }
+          },
+          {
+            "id": "eb662a4aad7cc739",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78fd4bed3f582416",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Agile/Agile nədir.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Agile nədir"
+            }
+          },
+          {
+            "id": "088f8ab338ffc126",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b50481882dc5a634",
+  "lastOpenFiles": [
+    "img/Pasted image.md",
+    "Agile/Agile nədir.md",
+    "img.md",
+    "img/Pasted image 20250220125716.png",
+    "img/Pasted image 20250220141858.png",
+    "img",
+    "New folder",
+    "Git/Git CLI.md",
+    "Git/Conventional Commit standart.md",
+    "Git/Commit mesajları təlimatı.md",
+    "Git",
+    "Agile/Agile əsas dəyərləri və prinsipləri.md",
+    "Agile",
+    "Scrum/img/1_brKZcLYBLD7fkkrAjZEKcg.webp",
+    "Scrum/img/Scrum team dw.svg",
+    "Scrum/img",
+    "Scrum/4 Product Backlog.md",
+    "Scrum/3 Sprint Zero.md",
+    "Scrum/1 Scrum nədir.md",
+    "Scrum/2.3 Development Team.md",
+    "Scrum/2.2 Scrum Master.md",
+    "Scrum/2.1 Product Owner.md",
+    "Scrum/0 Scrum.md",
+    "Scrum/2 Scrum team.md",
+    "Scrum"
+  ]
+}
